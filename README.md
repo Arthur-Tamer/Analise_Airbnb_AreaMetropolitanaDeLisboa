@@ -5,7 +5,7 @@
 
 # Análise dos Dados do Airbnb — Área Metropolitana de Lisboa
 
-Neste projeto utilizei um *dataset* resumido do [Airbnb](http://insideairbnb.com/get-the-data.html) para realizar uma análise exploratória dos dados com python.
+Neste [projeto](https://bit.ly/Analise_Airbnb_AreaMetropolitanaDeLisboa_Github) utilizei um *dataset* resumido do [Airbnb](http://insideairbnb.com/get-the-data.html) para realizar uma análise exploratória dos dados com python.
 
 Caso tenha interesse, publiquei um artigo a respeito deste projeto no [Medium](https://fabiocceruti.medium.com/an%C3%A1lise-dos-dados-do-airbnb-da-cidade-de-lisboa-55cbfb503fbd).
 
