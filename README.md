@@ -3,17 +3,23 @@
   <img src="banner.jpeg" >
 </p>
 
-# Análise dos Dados do Airbnb — Área Metropolitana de Lisboa
+## Análise dos Dados do Airbnb — Área Metropolitana de Lisboa
 
-Neste [projeto](https://bit.ly/Analise_Airbnb_AreaMetropolitanaDeLisboa_Github) utilizei um *dataset* resumido do [Airbnb](http://insideairbnb.com/get-the-data.html) para realizar uma análise exploratória dos dados com python.
+Neste projeto utilizei um *dataset* do [Airbnb](http://insideairbnb.com/get-the-data.html) para realizar uma análise exploratória completa dos dados com python e obtive como principais resultados o mínimo de noites requeridas, o preço médio do aluguer na Área Metropolitana de Lisboa e as freguesias mais caras e baratas para arrendar.
 
-Caso tenha interesse, publiquei um artigo a respeito deste projeto no [Medium](https://fabiocceruti.medium.com/an%C3%A1lise-dos-dados-do-airbnb-da-cidade-de-lisboa-55cbfb503fbd).
+[Link para o projeto completo](https://bit.ly/Analise_Airbnb_AreaMetropolitanaDeLisboa_Github)
+
+**Links para acharem-me:**
+* [Artigo meu desse projeto no Medium](https://medium.com/p/42d76baf3b1/edit)
+* [LinkedIn](https://bit.ly/Arthur-Tamer-LinkedIn)
+* [Medium](https://bit.ly/Arthur-Tamer-Medium)
+* [Portfólio Completo](https://bit.ly/Arthur-Tamer-Portfolio)
 
 
-Entre em contato em caso de dúvida. Estou sempre à disposição.
 
-* [LinkedIn](https://www.linkedin.com/in/arthur-tamer/)
 
-Obrigado!
+## Outros Projetos Meus:
 
+Business
+* **[Visualização de dados em python: Gráfico de Waffle](https://bit.ly/Grafico_de_Waffle)**
 -----------------------------------------------------
