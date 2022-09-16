@@ -20,6 +20,6 @@ Neste projeto utilizei um *dataset* do [Airbnb](http://insideairbnb.com/get-the-
 
 ## Outros Projetos Meus:
 
-Business
+Tutoriais
 * **[Visualização de dados em python: Gráfico de Waffle](https://bit.ly/Grafico_de_Waffle)**
 -----------------------------------------------------
