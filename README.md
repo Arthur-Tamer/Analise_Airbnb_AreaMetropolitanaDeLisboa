@@ -10,7 +10,7 @@ Neste projeto utilizei um *dataset* do [Airbnb](http://insideairbnb.com/get-the-
 [Link para o projeto completo](https://bit.ly/Analise_Airbnb_AreaMetropolitanaDeLisboa_Github)
 
 **Links para acharem-me:**
-* [Artigo meu desse projeto no Medium](https://medium.com/p/42d76baf3b1/edit)
+* [Artigo meu desse projeto no Medium](https://bit.ly/Analise_Airbnb_AreaMetropolitanaDeLisboa_Medium)
 * [LinkedIn](https://bit.ly/Arthur-Tamer-LinkedIn)
 * [Medium](https://bit.ly/Arthur-Tamer-Medium)
 * [Portfólio Completo](https://bit.ly/Arthur-Tamer-Portfolio)
