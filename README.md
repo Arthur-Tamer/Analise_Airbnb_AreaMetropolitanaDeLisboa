@@ -5,6 +5,10 @@
 
 ## Análise dos Dados do Airbnb — Área Metropolitana de Lisboa
 
+<p align="center">
+  <img src="Capa.png" >
+</p>
+
 Neste projeto utilizei um *dataset* do [Airbnb](http://insideairbnb.com/get-the-data.html) para realizar uma análise exploratória completa dos dados com python e obtive como principais resultados o mínimo de noites requeridas, o preço médio do aluguer na Área Metropolitana de Lisboa e as freguesias mais caras e baratas para arrendar.
 
 [Link para o projeto completo](https://bit.ly/Analise_Airbnb_AreaMetropolitanaDeLisboa_Github)
